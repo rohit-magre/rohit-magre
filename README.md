@@ -9,3 +9,5 @@
 - 📫 How to reach me: linkedin
 
 
+[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohit-magre&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rohit-magre/github-readme-stats)
+
